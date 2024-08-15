@@ -1,0 +1,6 @@
+{
+  "VehicleRentalService.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Enric\\Desktop\\GtMotive\\VehicleRentalService\\VehicleRentalService.API",
+  "VehicleRentalService.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Enric\\Desktop\\GtMotive\\VehicleRentalService\\VehicleRentalService.Application",
+  "VehicleRentalService.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Enric\\Desktop\\GtMotive\\VehicleRentalService\\VehicleRentalService.Core",
+  "VehicleRentalService.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Enric\\Desktop\\GtMotive\\VehicleRentalService\\VehicleRentalService.Infrastructure"
+}
